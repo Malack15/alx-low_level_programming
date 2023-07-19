@@ -2,8 +2,8 @@
 
 /**
 * print_name - prints a name
-* @name: input params for name
-* @f: reps a function pointer
+* @name:the name given
+* @f: function of name
 *Return:void
 */
 
