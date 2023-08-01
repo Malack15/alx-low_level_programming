@@ -18,7 +18,7 @@ return (NULL);
 if (idx != 0)
 {
 temp = *head;
-for (a = 0; a < idx - 1 && temp != NULL; i++)
+for (a = 0; a < idx - 1 && temp != NULL; a++)
 {
 temp = temp->next;
 }
